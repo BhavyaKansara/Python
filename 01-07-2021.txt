@@ -1,0 +1,17 @@
+1) ADA(Dhaval sir)
+           - How to solve the time complexity
+           - Substitute Method
+2) CN(NKP)
+           - Proxy
+
+3) SE(lab-MDM)
+           - Tutorial 1 presentation
+           - Tutorial 6 explanation
+           - Tutorial 6 mate registraion karai didhu che apdu
+
+4) PDS(BUG)
+           - Different liberaries
+           - MAtPlotLib,Pandas,SciPy
+
+5) PE(NDS)
+           - I was Absent
